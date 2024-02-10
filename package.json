@@ -1,0 +1,21 @@
+{
+  "name": "productoapi",
+  "version": "1.0.0",
+  "description": "Api Rest",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "JLSL",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
